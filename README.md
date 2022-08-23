@@ -2,8 +2,7 @@
 
 <p align="center">
     <img 
-      src="https://imgur.com/gallery/1VXDzom.png"
-         <blockquote class="imgur-embed-pub" lang="en" data-id="wnmRSxF"><a href="https://imgur.com/wnmRSxF">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+      src="https://imgur.com/wnmRSxF"
       alt="logo HSO" 
       width="250" 
       height="106"
