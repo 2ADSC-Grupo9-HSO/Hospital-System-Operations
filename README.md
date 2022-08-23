@@ -11,7 +11,9 @@
 <p align="center">Um sistema para monitorar as máquinas de hospitais.</p>
 
 
-## Objetivo do Projeto
+## Objetivos do Projeto
+- Entregar o que é proposto por todas as matérias e superar não só as nossas expectativas, mas as da faculdade também;
+- Capacitação nas matérias a ponto de conseguir realizar uma task sozinho.
  
 ## Tecnologias
 - HTML, CSS e Javascript - Estrutura do site
