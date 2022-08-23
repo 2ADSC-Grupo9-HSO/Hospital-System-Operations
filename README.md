@@ -4,8 +4,8 @@
     <img 
       src="https://imgur.com/wnmRSxF.png"
       alt="logo HSO" 
-      width="250" 
-      height="106"
+      width="300" 
+      height="105"
     />
 </p>
 <p align="center">Um sistema para monitorar as máquinas de hospitais.</p>
