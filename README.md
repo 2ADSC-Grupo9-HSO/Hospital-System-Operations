@@ -1,5 +1,5 @@
-# Hospital-System-Operations
-Sobre nós
+# Hospital System Operations
+
 <p align="center">
     <img 
       src=""
