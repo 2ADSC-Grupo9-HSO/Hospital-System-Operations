@@ -13,13 +13,11 @@
 
 ## Objetivo do Projeto
  
- 
- 
 ## Tecnologias
 - HTML, CSS e Javascript - Estrutura do site
 - NodeJS - Persistência dos dados na base
 - MySQL/SQL Server - Sistema de gerenciamento de banco de dados
-- Java - Lógica
+- Java - Lógica e API
 
 ## Regras de condução de equipe
 1.	Respeitar as opiniões dos colaboradores.
@@ -41,4 +39,4 @@
 - **Samuel Vinicio** - [mukavine](https://github.com/mukavine)   
 
 ## Entre em contato
- <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:222-2adsc-grupo9@bandtec.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
