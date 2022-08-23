@@ -2,7 +2,7 @@
 
 <p align="center">
     <img 
-      src="https://imgur.com/a/1VXDzom"
+      src="https://imgur.com/gallery/1VXDzom.png"
       alt="logo HSO" 
       width="250" 
       height="106"
