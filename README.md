@@ -13,7 +13,8 @@
 
 ## Objetivos do Projeto
 - Entregar o que é proposto por todas as matérias e superar não só as nossas expectativas, mas as da faculdade também;
-- Capacitação nas matérias a ponto de conseguir realizar uma task sozinho.
+- Capacitação nas matérias a ponto de conseguir realizar uma task sozinho;
+- Obter conhecimento em todas as matérias, para ter um equilíbrio entre elas e não se limitar a uma só.
  
 ## Tecnologias
 - HTML, CSS e Javascript - Estrutura do site
